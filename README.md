@@ -12,4 +12,5 @@ Commands and Rules:
 
 To play my game, press the "github-pages" button and after press "view deployment" 
 
-![image](https://github.com/Lorenzo-Rosas-2C-JCMaxwell-2023/CardGameTutorial/assets/124684090/0e525f6a-3620-42f0-b26e-4a72443c7bb4)
+![image](https://github.com/Lorenzo-Rosas-2C-JCMaxwell-2023/CardGameTutorial/assets/124684090/6a21c36a-ec14-4ae2-9d8b-88d98e219574)
+
