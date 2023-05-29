@@ -10,7 +10,7 @@ Commands and Rules:
 - For every mistake, the game will turn over the wrong cards
 - To win match all the cards
 
-To play my game, press the "github-pages" button and after press "view deployment" 
+To play my game, click on this link: https://lorenzo-rosas-2c-jcmaxwell-2023.github.io/CardGameTutorial/
 
 ![image](https://github.com/Lorenzo-Rosas-2C-JCMaxwell-2023/CardGameTutorial/assets/124684090/6a21c36a-ec14-4ae2-9d8b-88d98e219574)
 
